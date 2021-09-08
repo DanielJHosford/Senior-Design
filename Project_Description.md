@@ -1,5 +1,5 @@
 # Team Name
-Capstone
+### Question Counters
 # Team Members
 ### Reece Strohm
 - Computer Science
