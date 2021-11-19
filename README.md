@@ -3,12 +3,12 @@
 ## [Project Description](https://github.com/DanielJHosford/Senior-Design/blob/main/Project_Description.md)
 
 ## User Stories and Design Diagrams
-* [User Stories](https://github.com/VasuBhog/Senior-Project/blob/master/Design/User_Stories.md)
+* [User Stories](https://github.com/DanielJHosford/Senior-Design/blob/main/Homework_Submissions/User_Stories.md)
 * Design Diagrams
-    * [Diagram 1](https://github.com/VasuBhog/Senior-Project/blob/master/Design/Diagram1.jpeg)
-    * [Diagram 2](https://github.com/VasuBhog/Senior-Project/blob/master/Design/Diagram2.jpeg)
-    * [Diagram 3](https://github.com/VasuBhog/Senior-Project/blob/master/Design/Diagram3.jpeg)
-* [Description of the Diagrams](https://github.com/VasuBhog/Senior-Project/blob/master/Design/Design-Descriptions.md)
+    * [Diagram 1](https://github.com/DanielJHosford/Senior-Design/blob/main/Homework_Submissions/Design_Diagrams/Use%20Case%201.jpg)
+    * [Diagram 2](https://github.com/DanielJHosford/Senior-Design/blob/main/Homework_Submissions/Design_Diagrams/Use%20Case%202.jpg)
+    * [Diagram 3](https://github.com/DanielJHosford/Senior-Design/blob/main/Homework_Submissions/Design_Diagrams/Use%20Case%203.jpg)
+
 
 ## Project Tasks and Timeline
 * [Task List](https://github.com/VasuBhog/Senior-Project/blob/master/Tasklist.md)
