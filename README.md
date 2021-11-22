@@ -1,7 +1,7 @@
 # Question Counters
 
 ## [Project Description](https://github.com/DanielJHosford/Senior-Design/blob/main/Project_Description.md)
-
+edit
 ## User Stories and Design Diagrams
 * [User Stories](https://github.com/DanielJHosford/Senior-Design/blob/main/Homework_Submissions/User_Stories.md)
 * Design Diagrams
@@ -11,22 +11,20 @@
 
 
 ## Project Tasks and Timeline
-* [Task List](https://github.com/VasuBhog/Senior-Project/blob/master/Tasklist.md)
-* [Timeline](https://github.com/VasuBhog/Senior-Project/blob/master/Timeline.md)
-* [Effort Matrix](https://github.com/VasuBhog/Senior-Project/blob/master/Effort_Matrix.PNG)
+* [Task List](https://github.com/DanielJHosford/Senior-Design/blob/main/Homework_Submissions/Task_Lists/Task_List.md)
+* [Timeline and effort matrix](https://github.com/DanielJHosford/Senior-Design/blob/main/Homework_Submissions/Milestones%2C%20Timeline%2C%20Matrix.docx)
+edit
 
-## [PPT Slideshow](https://github.com/VasuBhog/Senior-Project/blob/master/Driver2_0.pptx)
+## [PPT Slideshow](https://mailuc-my.sharepoint.com/:p:/g/personal/strohmrr_mail_uc_edu/EUa9SBcsgpJNpsQ5cM_lk-oB5bowwFbU8M8nnFBMvVdamw?e=sajRmJ)
 
-## Self-Assessment Essays
-* [Vasu Bhog](https://github.com/VasuBhog/Senior-Project/blob/master/Individual%20Capstone%20Assessment/Vasu_Bhog%20Self-Assessment.pdf)
-* [ChaoYang Zhu](https://github.com/VasuBhog/Senior-Project/blob/master/Individual%20Capstone%20Assessment/ChaoYang_Zhu.pdf)
-* [Chunjie Pan](https://github.com/VasuBhog/Senior-Project/blob/master/Individual%20Capstone%20Assessment/Chunjie_Pan%20Self-Assessment.pdf)
+##  Individual Capstone Assessment Essays
+* [Daniel Hosford](https://github.com/DanielJHosford/Senior-Design/blob/main/Homework_Submissions/CapstoneAssessments/DanielHosford.md)
+* [Reece Strohm](https://github.com/DanielJHosford/Senior-Design/blob/main/Homework_Submissions/CapstoneAssessments/CapstoneAssessment_Reece.md)
 
 ## Professional Biographies
-* [Vasu Bhog](https://github.com/VasuBhog/Senior-Project/blob/master/Biographies/VasuBhog.md)
-* [ChaoYang Zhu](https://github.com/VasuBhog/Senior-Project/blob/master/Biographies/ChaoYang_Zhu.md)
-* [Chunjie Pan](https://github.com/VasuBhog/Senior-Project/blob/master/Biographies/Chunjie_Pan.md)
+* [Daniel Hosford](https://github.com/DanielJHosford/Senior-Design/blob/main/Daniel_Introduction.md)
+* [Reece Strohm](https://github.com/DanielJHosford/Senior-Design/blob/main/Reece_Introduction.md)
 
 ## [Budget](https://github.com/VasuBhog/Senior-Project/blob/master/Budget.md)
-
-## [Appendix](https://github.com/VasuBhog/Senior-Project/blob/master/appendix.md)
+edit 
+## [Appendix](https://github.com/DanielJHosford/Senior-Design/blob/main/Appendix.md)
