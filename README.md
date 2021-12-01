@@ -1,7 +1,7 @@
 # Question Counters
 
 ## [Project Description](https://github.com/DanielJHosford/Senior-Design/blob/main/Project_Description.md)
-edit
+Our project focus is to help enhance a company’s systems that are currently in place. The current systems that we use to do accounting, document management, and communicating we believe can be improved through software enhancements. We will gain experience using Docusign, QuickBooks, python, and excel. We will work to improve speed of communication with customers signing contracts. We will go through requirements gathering, project planning, development, testing and implementation of the improvements throughout the two semesters. We will automate some reports that we are currently manually generating through QuickBooks. We are planning on implementing an Agile workflow for the semester to accomplish all the enhancements throughout the project.
 ## User Stories and Design Diagrams
 * [User Stories](https://github.com/DanielJHosford/Senior-Design/blob/main/Homework_Submissions/User_Stories.md)
 * Design Diagrams
