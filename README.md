@@ -13,7 +13,7 @@ Our project focus is to help enhance a company’s systems that are currently in
 ## Project Tasks and Timeline
 * [Task List](https://github.com/DanielJHosford/Senior-Design/blob/main/Homework_Submissions/Task_Lists/Task_List.md)
 * [Timeline and effort matrix](https://github.com/DanielJHosford/Senior-Design/blob/main/Homework_Submissions/Milestones%2C%20Timeline%2C%20Matrix.docx)
-edit
+
 
 ## [PPT Slideshow](https://mailuc-my.sharepoint.com/:p:/g/personal/strohmrr_mail_uc_edu/EUa9SBcsgpJNpsQ5cM_lk-oB5bowwFbU8M8nnFBMvVdamw?e=sajRmJ)
 
@@ -25,6 +25,6 @@ edit
 * [Daniel Hosford](https://github.com/DanielJHosford/Senior-Design/blob/main/Daniel_Introduction.md)
 * [Reece Strohm](https://github.com/DanielJHosford/Senior-Design/blob/main/Reece_Introduction.md)
 
-## [Budget](https://github.com/VasuBhog/Senior-Project/blob/master/Budget.md)
-edit 
+## [Budget](https://github.com/DanielJHosford/Senior-Design/blob/main/Budget.md)
+
 ## [Appendix](https://github.com/DanielJHosford/Senior-Design/blob/main/Appendix.md)
