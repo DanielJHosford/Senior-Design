@@ -1,6 +1,6 @@
 # Appendix
-Code Repository:
+## Code Repository:
 [Senior-Design](https://github.com/DanielJHosford/Senior-Design)
-Effort Justification
+## Effort Justification
 [Budget](https://github.com/DanielJHosford/Senior-Design/Budget.md)
-Justifies time spent in budget
+### Justifies time spent in budget
