@@ -1,5 +1,5 @@
 # User Doc
-### *NOTE*
+#### *NOTE*
 Since this is an automation project, it is supposed to be hands off to the user. Therefore, the user should not need to do anything to use the application when it performs its processes. However, this document will go over 
 what is necessary for the user in order for the automation to successfully operate.
 ## User Set-Up
